@@ -1,7 +1,7 @@
 ﻿patient_id,visit_number,dg1_set_id,dg1_code,dg1_display,dg1_system,dg1_when,dg1_type,dg1_poA
-60877883,121006340,1,N18.2,"Chronische Nierenkrankheit, Stadium 2",icd10gm2018,20180405175900,Entlassdiagnose,N
-60877883,121006340,2,I42.0,Dilatative Kardiomyopathie,icd10gm2019,20190109124000,Entlassdiagnose,N
-60877883,121006340,3,I50.14,Linksherzinsuffizienz: Mit Beschwerden in Ruhe,icd10gm2019,20190109124000,Entlassdiagnose,N
-60877883,121006340,4,I50.14,Linksherzinsuffizienz: Mit Beschwerden in Ruhe,icd10gm2019,20190109124000,Entlassdiagnose,N
-60877883,121006340,5,I48.0,"Vorhofflimmern, paroxysmal",icd10gm2019,20190109124000,Entlassdiagnose,N
-60877883,121006340,7,I11.00,Hypertensive Herzkrankheit mit (kongestiver) Herzinsuffizienz: Ohne Angabe einer hypertensiven Krise,icd10gm2019,20190109124000,Entlassdiagnose,N
+60877883,121006340,1,N18.2,"Chronische Nierenkrankheit, Stadium 2",icd10gm2018,2022-02-03T04:05:06,Entlassdiagnose,N
+60877883,121006340,2,I42.0,Dilatative Kardiomyopathie,icd10gm2019,2022-02-03T04:05:06,Entlassdiagnose,N
+60877883,121006340,3,I50.14,Linksherzinsuffizienz: Mit Beschwerden in Ruhe,icd10gm2019,2022-02-03T04:05:06,Entlassdiagnose,N
+60877883,121006340,4,I50.14,Linksherzinsuffizienz: Mit Beschwerden in Ruhe,icd10gm2019,2022-02-03T04:05:06,Entlassdiagnose,N
+60877883,121006340,5,I48.0,"Vorhofflimmern, paroxysmal",icd10gm2019,2022-02-03T04:05:06,Entlassdiagnose,N
+60877883,121006340,7,I11.00,Hypertensive Herzkrankheit mit (kongestiver) Herzinsuffizienz: Ohne Angabe einer hypertensiven Krise,icd10gm2019,2022-02-03T04:05:06,Entlassdiagnose,N
